@@ -4,6 +4,7 @@
 ## 📉프로젝트 소개
 * 사용자가 정보를 입력하고 본인 계정을 이용해 주식을 거래하는 시스템입니다.
 * 사용자는 1명으로 고정되어 있으며 주식또한 10개로 고정되어있습니다.
+* 🔗[BBIC 팀 스터디 기록](https://www.notion.so/coffit23/2-BBIC-cfcf5cea0ed44d4990453ab33b94691f)
 
 ## 🧑‍💻팀원 구성
 
@@ -17,6 +18,7 @@
 * Develop : JAVA
 * Version Constrol : Git
 * Communicate : Slack, Figjam, Notion
+
 
 ## 프로젝트 구조
 ```
